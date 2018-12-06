@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Kalima",
+    "packageName": "wanwiz",
+    "packageFolder": "wanwiz",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "ar-ly",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "ZDE5OTY1ODE4OWNmNzYyOTdhOGE2ZmM5NzY4NzIzMzA4Zjg1NDliMzYxZTBlYmU2MGEwNjM1ZTZjNmJlZjNiN2JkMmFkMWFhMzdhY2M1OWM1YmRjZWJlNmE4Y2Y2YzQ1NGE3NmVjNGNkM2FiYjc3OTZlYzc5NDMxZmQ2N2U1Mzk=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Mahoutsoukai",
+  "repository-name": "wanwiz"
+}
